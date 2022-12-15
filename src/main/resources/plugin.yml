@@ -1,0 +1,7 @@
+name: ReignOfSky
+version: Alpha-0.0.1
+main: com.ddang_.reignofsky.ReignOfSky
+api-version: 1.19
+authors: [ DDang_ ]
+description: Minecraft main system of "reign of sky" contents for 1.19.3 paper server
+website: https://github.com/I-am-ddang
